@@ -1,1 +1,23 @@
-{}
+{
+  "event_data": {
+    "id": "1",
+    "title": "Liv-Ellen och Davids Bröllop",
+    "geolocation": "59.792248,19.002776",
+    "venue": "Ivarsudde",
+    "description": "Beskrivning",
+    "creation_date": "2020-08-26 20:32:16",
+    "modification_date": "2020-08-26 20:33:36"
+  },
+  "invitee": {
+    "id": "2",
+    "slug": "asd",
+    "name": "Christoffer och Matilda",
+    "adults": "0",
+    "children": null,
+    "allowed_additional": "0",
+    "note": "Christoffer Mossberg och Matilda Söderstrand",
+    "status": "pending",
+    "creation_date": null,
+    "modification_date": null
+  }
+}
