@@ -34,6 +34,13 @@
       "value_type": "integer",
       "placeholder": null,
       "value": 0
+    },
+    {
+      "id": "ovrigt",
+      "title": "Övrigt",
+      "value_type": "textarea",
+      "placeholder": "Någonting annat du vill meddela?",
+      "value": 0
     }
   ]
 }
