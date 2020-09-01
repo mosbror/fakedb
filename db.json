@@ -19,5 +19,17 @@
     "status": "pending",
     "creation_date": null,
     "modification_date": null
-  }
+  },
+  "fields": [
+    {
+      "title": "Mat-alergier",
+      "value_type": "text",
+      "placeholder": null
+    },
+    {
+      "title": "Antal barn",
+      "value_type": "integer",
+      "placeholder": null
+    }
+  ]
 }
