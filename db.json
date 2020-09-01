@@ -37,9 +37,9 @@
     },
     {
       "id": "ovrigt",
-      "title": "Övrigt",
+      "title": "Ovrigt",
       "value_type": "textarea",
-      "placeholder": "Någonting annat du vill meddela?",
+      "placeholder": "Nagonting annat du vill meddela?",
       "value": 0
     }
   ]
