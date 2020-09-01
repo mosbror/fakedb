@@ -33,7 +33,7 @@
       "title": "Antal barn",
       "value_type": "integer",
       "placeholder": null,
-      "value": null
+      "value": 0
     }
   ]
 }
