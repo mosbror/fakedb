@@ -26,21 +26,32 @@
       "title": "Mat-alergier",
       "value_type": "textarea",
       "placeholder": null,
-      "value": null
+      "value": null,
+      "required": true
     },
     {
       "id": "antal-barn",
       "title": "Antal barn",
       "value_type": "integer",
       "placeholder": null,
-      "value": 0
+      "value": 0,
+      "required": false
     },
     {
       "id": "ovrigt",
       "title": "Övrigt",
       "value_type": "textarea",
       "placeholder": "Någonting annat du vill meddela?",
-      "value": null
+      "value": null,
+      "required": false
+    },
+    {
+      "id": "plus-one",
+      "title": "Vill du ta med dig någon?",
+      "value_type": "text",
+      "placeholder": null,
+      "value": null,
+      "required": false
     }
   ]
 }
