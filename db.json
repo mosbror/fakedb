@@ -25,13 +25,15 @@
       "id": "mat-alergier",
       "title": "Mat-alergier",
       "value_type": "text",
-      "placeholder": null
+      "placeholder": null,
+      "value": null
     },
     {
       "id": "antal-barn",
       "title": "Antal barn",
       "value_type": "integer",
-      "placeholder": null
+      "placeholder": null,
+      "value": null
     }
   ]
 }
