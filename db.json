@@ -24,7 +24,7 @@
     {
       "id": "mat-alergier",
       "title": "Mat-alergier",
-      "value_type": "text",
+      "value_type": "textarea",
       "placeholder": null,
       "value": null
     },
